@@ -1,4 +1,4 @@
-# **👋 Hello, I'm Muhammad Mujaheed Badamasi**  
+# **👋 Hello, I'm Muhammad Mujaheed Badamasi** 
 
 ### **💻 Backend Developer | ☁️ Cloud Enthusiast | 🐍 Python & JavaScript**  
 
