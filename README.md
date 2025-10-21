@@ -51,7 +51,7 @@ I'm a passionate web developer focused on creating **interactive, scalable web a
 ## 📫 Connect With Me
 - **WhatsApp**: [+234 811 320 4566](https://wa.me/2348113204566)  
 - **Email**: [badamasimuhammad359@gmail.com](mailto:badamasimuhammad359@gmail.com)  
-- **GitHub**: [github.com/YourUsername](https://github.com/YourUsername)  
+- **GitHub**: [github.com/YourUsername](https://github.com/Mujaheed56)  
 
 ---
 
