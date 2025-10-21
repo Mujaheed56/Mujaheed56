@@ -44,7 +44,7 @@ I'm a passionate web developer focused on creating **interactive, scalable web a
 - **E-commerce MERN App:** Full-stack store with authentication, product management & payments.  
 - **Chat App:** Real-time chat application using Socket.io & Node.js backend.  
 
-*(Check out my repos for live projects and cool demos!)*  
+*(Check out my repos for live projects and cool demos!)* 
 
 ---
 
