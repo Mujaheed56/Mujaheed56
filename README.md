@@ -1,65 +1,66 @@
-# 👋 Hey, I'm Muhammad Mujaheed Badamasi
+![Banner](banner.jpg)
 
-### 💻 MERN Stack Developer | 🌐 Web Enthusiast | ⚡ Learning & Building  
-
-I'm a passionate web developer focused on creating **interactive, scalable web apps** using the MERN stack. I love experimenting with new tech, solving real-world problems with code, and leveling up my skills every day.  
+<div align="center">
+  <h1>👋 Hey, I'm Muhammad Mujaheed Badamasi</h1>
+  <p><strong>💻 MERN Stack Developer | 🌐 Web Enthusiast | ⚡ Learning & Building</strong></p>
+  
+  <p>I'm a passionate web developer focused on creating interactive, scalable web apps using the MERN stack. I love experimenting with new tech, solving real-world problems with code, and leveling up my skills every day!</p>
+</div>
 
 ---
 
-## 🛠 Tech Stack & Tools  
+### 🛠 Tech Stack & Tools
 
 **Languages:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Frontend:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 **Backend:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Tools & Platforms:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 🌱 Currently Learning
-- Advanced React (Hooks, Context API, React Router)  
-- Node.js + Express APIs & JWT Auth  
-- MongoDB Aggregation & Optimization  
-- Responsive & Modern UI/UX Design  
+### 🌱 Currently Learning
+- Advanced React (Hooks, Context API, React Router)
+- Node.js + Express APIs & JWT Authentication
+- MongoDB Aggregation & Optimization
+- Responsive & Modern UI/UX Design
 
 ---
 
-## 🚀 Projects & Highlights
-- **Personal Portfolio:** Responsive web app showcasing projects & skills.  
-- **E-commerce MERN App:** Full-stack store with authentication, product management & payments.  
-- **Chat App:** Real-time chat application using Socket.io & Node.js backend.  
+### 🚀 Projects & Highlights
+- **Termux Tools**: Custom scripts and tools I've built for Termux – check them out in my repositories!
 
-*(Check out my repos for live projects and cool demos!)* 
+Explore my repositories for live demos, source code, and more cool projects!
 
 ---
 
-## 📫 Connect With Me
-- **WhatsApp**: [+234 811 320 4566](https://wa.me/2348113204566)  
-- **Email**: [badamasimuhammad359@gmail.com](mailto:badamasimuhammad359@gmail.com)  
-- **GitHub**: [github.com/Mujaheed56](https://github.com/Mujaheed56)  
+### 📫 Connect With Me
+- **WhatsApp**: +234 811 320 4566
+- **Email**: badamasimuhammad359@gmail.com
 
 ---
 
-## ⚡ Fun Facts
-- 🎮 Gaming: Strategy games & chess lover  
-- 🌍 Languages: Fluent in English & Hausa  
-- 💡 Goal: Build web tools & apps that solve real problems  
+### ⚡ Fun Facts
+- 🎮 Gaming: Strategy games & chess lover
+- 🌍 Languages: Fluent in English & Hausa
+- 💡 Goal: Build web tools & apps that solve real-world problems
 
----
+<div align="center">
+  <h3>⭐ If you find my projects interesting, drop a star on my repos & follow for updates!</h3>
+</div>
 
-**⭐ If you find my projects interesting, drop a star & follow for updates!**
