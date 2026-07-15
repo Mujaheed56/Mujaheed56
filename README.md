@@ -49,9 +49,9 @@
 
 <br/>
 
-<!-- Role & interests cycling -->
+<!-- Learning focus (humble vibes) -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=6C3CF7&center=true&vCenter=true&width=640&lines=Full-Stack+Developer+%7C+CEO+%40+Phantomdev+Works;Building+AI-Powered+WhatsApp+Automation+Tools;MERN+%7C+Next.js+%7C+TypeScript+%7C+Node.js;Learning+C%2B%2B+%26+Game+Development;Pushing+Boundaries+of+Modular+Architecture;Real+Madrid+%26+eFootball+Tactician;%22One+Day+or+Day+One.+You+Decide.%22" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=6C3CF7&center=true&vCenter=true&width=640&lines=Building+AI-Powered+WhatsApp+Automation+Tools;MERN+%7C+Next.js+%7C+TypeScript+%7C+Node.js;Currently+learning+C%2B%2B+%26+Game+Development;Pushing+Boundaries+of+Modular+Architecture;%22One+Day+or+Day+One.+You+Decide.%22" alt="Typing SVG"/>
 
 </div>
 
@@ -61,7 +61,7 @@
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![C++](https://img.shields.io/badge/C++-Learning-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
@@ -98,13 +98,16 @@
 
 <div align="center">
 
-<img src="https://github-stats-analyzer-gamma.vercel.app/api/card/stats?username=Mujaheed56&theme=radical" alt="GitHub Stats"/>
+<img src="https://github-stats-analyzer-gamma.vercel.app/api/card/stats?username=Mujaheed56&theme=nord&hide_border=true" alt="GitHub Stats"/>
 <br/>
-<img src="https://github-stats-analyzer-gamma.vercel.app/api/card/languages?username=Mujaheed56&theme=radical" alt="Top Languages"/>
 <br/>
-<img src="https://github-stats-analyzer-gamma.vercel.app/api/card/badges?username=Mujaheed56&theme=radical" alt="Achievements"/>
-<br/><br/>
-<img src="https://streak-stats.demolab.com/?user=Mujaheed56&theme=tokyonight&border=6C3CF7&background=0d0d1a&ring=6C3CF7&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak"/>
+<img src="https://github-stats-analyzer-gamma.vercel.app/api/card/languages?username=Mujaheed56&theme=nord&hide_border=true" alt="Top Languages"/>
+<br/>
+<br/>
+<img src="https://github-stats-analyzer-gamma.vercel.app/api/card/badges?username=Mujaheed56&theme=nord&hide_border=true" alt="Achievements"/>
+<br/>
+<br/>
+<img src="https://streak-stats.demolab.com/?user=Mujaheed56&theme=nord&hide_border=true&background=0d0d1a&ring=6C3CF7&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak"/>
 
 </div>
 
@@ -137,19 +140,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Mujaheed56-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mujaheed56)
 
 </div>
-
------
-
-## Fun Facts
-
-```
-  > Role        : CEO @ Phantomdev Works
-  > Stack       : MERN · Next.js · TypeScript · C++ · Game Dev
-  > Learning    : C++ · Unreal Engine · Neural Networks
-  > Football    : Real Madrid supporter & eFootball Tactician
-  > Motto       : "One day or Day One. You decide."
-  > Status      : Always building something...
-```
 
 -----
 
